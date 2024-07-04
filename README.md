@@ -6,7 +6,7 @@
 
 💬 Ask me about DevOps and Cloud services
 
-📫 How to reach me: omnagare07@gmail.com
+📫 How to reach me: sohailbagali768@gmail.com
 
 ⚡ Fun fact: I love to learn
 
