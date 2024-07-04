@@ -6,7 +6,7 @@
 
 💬 Ask me about DevOps and Cloud services
 
-📫 How to reach me: sohailbagali768@gmail.com
+📫 How to reach me: omnagare07@gmail.com
 
 ⚡ Fun fact: I love to learn
 
@@ -16,7 +16,7 @@
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/sohail-bagali/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://x.com/Sohailk25853133)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/sohailbagali)
 
 ### Languages and Tools:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
@@ -32,4 +32,3 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beingsohailk&show_icons=true&theme=radical)
-
