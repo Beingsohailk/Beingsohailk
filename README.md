@@ -12,6 +12,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My DevOps Blog on Hashnode](https://superdevops.hashnode.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
