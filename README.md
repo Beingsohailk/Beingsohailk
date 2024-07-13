@@ -1,6 +1,3 @@
-Here's your updated markdown with SonarQube added to the list of tools and also in the GitHub Stats section:
-
-```markdown
 # Hi 👋, I'm Sohail Bagali
 **Bridging the Gap: A DevOps Engineer's Journey to Master**
 **Beingsohailk**
@@ -35,5 +32,5 @@ Here's your updated markdown with SonarQube added to the list of tools and also 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
 
+### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beingsohailk&show_icons=true&theme=radical)
-```
