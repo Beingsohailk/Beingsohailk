@@ -15,6 +15,9 @@
 - [My DevOps Blog on Hashnode](https://superdevops.hashnode.dev/)
 <!-- BLOG-POST-LIST:END -->
 
+### Portfolio
+- [My Portfolio](https://linktr.ee/sohailbagali)
+
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/sohail-bagali/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://x.com/Sohailk25853133)
